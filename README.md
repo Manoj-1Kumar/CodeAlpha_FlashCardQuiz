@@ -192,12 +192,6 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## 🎥 Project Demo
-
-**Demo Video:**
-Add your LinkedIn/video link here.
-
----
 
 ## 🔗 Internship
 
